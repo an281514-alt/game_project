@@ -1,0 +1,52 @@
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 20px;
+    font-size: 18px;
+    background-color: #000000;
+    text-align: center;
+}
+
+
+p {
+    font-family: 'Permanent Marker', 'cursive';
+    font-size: 24px;
+    color: white;
+    border-radius: 50%;
+}
+
+#username {
+    font-family: 'Permanent Marker', 'cursive';
+    font-size: 32px;
+    color: purple;
+    border-radius: 25%;
+    padding: 10px 20px;
+    border-color: blueviolet;
+    margin: 20px 0px 20px 0px;
+}
+
+.button1 {
+    font-family: 'Permanent Marker', 'cursive';
+    font-size: 32px;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 50%;
+    box-shadow: aquamarine 2px 2px 7px;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Permanent Marker', 'cursive';
+    color: rgb(122, 46, 199);
+    text-shadow: 2px 2px 7px aquamarine;
+    font-size: 100px;
+}
+
+.button {
+    font-family: 'Permanent Marker', 'cursive';
+    font-size: 32px;
+    color: rgb(50, 122, 173);
+    text-decoration: underline;
+    margin-top: 20 px;
+}
